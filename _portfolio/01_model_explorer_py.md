@@ -1,6 +1,6 @@
 ---
 title: "ModelExplorerPy"
-excerpt: "(Active) A python package to study molecular machine mechanisms. <br/><img src='/images/mepy.png'>"
+excerpt: "A python package to study molecular machine mechanisms (Active). <br/><img src='/images/mepy.png'>"
 collection: portfolio
 ---
 
