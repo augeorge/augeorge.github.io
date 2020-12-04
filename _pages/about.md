@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-bio goes here
+Under construction
