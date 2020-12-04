@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "August George"
 title_separator          : "-"
 name                     : &name "August George"
-description              : &description "Engineering PhD candidate in the Zuckerman Lab at OHSU"
+description              : &description "Project website"
 url                      : https://augeorge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "augeorge.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "August George"
   avatar           : "profile.png"
-  bio              : "Quantitative scientist developing data-driven and physics-based modeling tools."
+  bio              : "Interdisciplinary computational scientist and creator."
   location         : # "Portland, OR"
   employer         : Zuckerman Lab, OHSU
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
