@@ -6,4 +6,4 @@ collection: portfolio
 
 GitHub project/ data archive: [ModelExplorer](https://github.com/ZuckermanLab/ModelExplorer/tree/master/manuscript)
 
-Reference manuscript: ["A systems-biology approach to molecular machines: Exploration of alternative transporter mechanisms." by A.George et al](https://doi.org/10.1371/journal.pcbi.1007884)
+Reference manuscript: [https://doi.org/10.1371/journal.pcbi.1007884](https://doi.org/10.1371/journal.pcbi.1007884)
