@@ -1,6 +1,6 @@
 ---
 title: "ModelExplorer"
-excerpt: "A systems biology approach to finding molecular machine mechansisms<br/><img src='/images/me.png'>"
+excerpt: "A systems biology approach to finding molecular machine mechansisms (Archived)<br/><img src='/images/me.png'>"
 collection: portfolio
 ---
 
