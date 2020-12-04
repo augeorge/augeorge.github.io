@@ -1,6 +1,6 @@
 ---
 title: "Bayesian Analysis"
-excerpt: "A Jupyter notebook explaining Bayesian analysis. <br/><img src='/images/mepy.png'>"
+excerpt: "A Jupyter notebook explaining Bayesian analysis. <br/><img src='/images/ba.png'>"
 collection: portfolio
 ---
 
