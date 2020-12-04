@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "August George"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Quantitative scientist developing data-driven and physics-based modeling tools."
   location         : # "Portland, OR"
   employer         : "Zuckerman Lab, OHSU"
