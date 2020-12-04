@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Quantitative scientist developing data-driven and physics-based modeling tools."
   location         : # "Portland, OR"
-  employer         : # [Zuckerman Lab]("https://www.ohsu.edu/school-of-medicine/zuckerman-lab")
+  employer         : [Zuckerman Lab]("https://www.ohsu.edu/school-of-medicine/zuckerman-lab")
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
