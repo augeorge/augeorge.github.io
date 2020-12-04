@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Under construction
+Hi, my name is August and I am currently a PhD candidate in the [Zuckerman Lab]("https://www.ohsu.edu/school-of-medicine/zuckerman-lab") at OHSU. 
