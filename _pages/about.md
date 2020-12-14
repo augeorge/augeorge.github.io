@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is August and I am currently a PhD candidate in the [Biomedical Engineering Department](https://www.ohsu.edu/school-of-medicine/biomedical-engineering) at Oregon Health and Science University. My research, mentored by [Daniel M. Zuckerman](https://www.ohsu.edu/school-of-medicine/zuckerman-lab), focuses on developing quantitative methods to study the mechanisms of nano-scale machines such as molecular pumps and motors. Broadly speaking, I am interested in integrating physics-based modeling with data-driven processes - specifically pertaining to computational drug design.
+My name is August and I am currently a PhD candidate in the [Biomedical Engineering Department](https://www.ohsu.edu/school-of-medicine/biomedical-engineering) at Oregon Health and Science University. My research, mentored by [Daniel M. Zuckerman](https://www.ohsu.edu/school-of-medicine/zuckerman-lab), focuses on developing quantitative methods to study the mechanisms of nano-scale machines such as molecular pumps and motors. Broadly speaking, I am interested in integrating physics-based modeling with data-driven processes - with an emphasis on biomedical applications.
 
 Prior to starting my PhD I worked as an equipment technician in the R&D division at [Intel Corp](https://www.intel.com/content/www/us/en/homepage.html). There I assisted with routine maintenance, troubleshooting, team leadership, and process development for [Hitachi](https://www.hitachi-hightech.com/us/) plasma etching systems. 
 
