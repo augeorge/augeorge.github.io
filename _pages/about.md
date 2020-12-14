@@ -14,5 +14,4 @@ Prior to starting my PhD I worked as an equipment technician in the R&D division
 
 Before that I completed my Bachelor's degree in physics from the [Honors College](https://www.pdx.edu/honors/) at Portland State University. My undergraduate thesis, ["MOSCAP Oxide Charges"](https://doi.org/10.15760/honors.189), was supervised by [Rajendra Solanki](https://www.pdx.edu/physics/profile/raj-solanki) and investigated the effects of MOSCap oxide charges on device performance and the semiconductor manufacturing process. 
 
-My hobbies outside of academic research include: music, art, food, programming, 
-and all things sci-fi - MTFBWY!
+My hobbies outside of academic research include: music, art, food, and all things sci-fi - MTFBWY!
